@@ -1,0 +1,7 @@
+= quine-examples
+
+-  rabbit-quine.rb
+  just type:
+  $ ruby ./rabbit-quine.rb
+  you'll get ascii art rabbit quine.
+  
